@@ -4,7 +4,7 @@ The goal of this project was to run the **U-Net model with and without the atten
 
 The dataset consisted of **20 T2-weighted MRI images + masks**, with **5 classes to segment**: background, liver, left kidney, right kidney, and spleen.
 
-The results highlight the superior performance of the model with the attention gate, achieving Dice scores above 0.5 for each of the classes. Even though some classes were more frequent than others, a balance was maintained throughout the training. Additional improvements are suggested in the slides.
+The results highlight the superior performance of the model with the attention gate, achieving Dice scores around or above 0.6 for each of the classes. Even though some classes were more frequent than others, a balance was maintained throughout the training. Additional improvements are suggested in the slides.
 
 Below are some of the results observed.
 
